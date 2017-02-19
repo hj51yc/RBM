@@ -5,6 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+/**
+* @author: huangjin (Jeff)
+* @email: hj51yc@gmail.com
+* Restricted Boltzman machine using CD algorithom
+**/
+
 namespace RBM
 {
     class RBM_CD
